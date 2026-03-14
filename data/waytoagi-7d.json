@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-14T17:16:44.059961Z",
+  "generated_at": "2026-03-14T17:48:50.909405Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-03-14",
-  "count_today": 2,
+  "count_today": 4,
   "updates_today": [
     {
       "date": "2026-03-14",
@@ -16,9 +16,19 @@
       "date": "2026-03-14",
       "title": "这款基于布鲁姆掌握学习法的AI私教系统，可以让你实现高效自学。依托Claude Code实现本地文件交互，通过“阅读—标注疑问—作答反馈—AI迭代新课”的闭环，精准适配你的理解节奏。系统自带多领域课题，也可以自定义学习方向，所有数据都在本地留存，安全可控。AI会自动复盘错题、解答疑惑、调整难度，最终生成专属知识总结。30分钟即可上手，快来试试！",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-03-14",
+      "title": "本文档为 OpenClaw 完整命令手册，涵盖终端 CLI 命令和频道斜杠命令两大部分。或许会有你用得到的！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-03-14",
+      "title": "Dario Amodei 是 Anthropic 公司核心负责人，深耕 AI 大模型研发领域，对模型缩放、技术发展趋势有着极具前瞻性的判断，主导了 Claude 系列模型的技术研发与落地， Dwarkesh Patel 是资深科技访谈者，聚焦 AI 领域前沿对话，挖掘行业核心发展议题。本次访谈于 2026 年 2 月 14 日开展，围绕 AI 技术指数增长尾声、模型缩放假说、 RL 发展等核心问题展开，深入探讨 AI 技术落地与经济渗透的关键议题，分享了对 AI 行业发展趋势的独到见解与实践思考。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 34,
+  "count_7d": 36,
   "updates_7d": [
     {
       "date": "2026-03-14",
@@ -28,6 +38,16 @@
     {
       "date": "2026-03-14",
       "title": "这款基于布鲁姆掌握学习法的AI私教系统，可以让你实现高效自学。依托Claude Code实现本地文件交互，通过“阅读—标注疑问—作答反馈—AI迭代新课”的闭环，精准适配你的理解节奏。系统自带多领域课题，也可以自定义学习方向，所有数据都在本地留存，安全可控。AI会自动复盘错题、解答疑惑、调整难度，最终生成专属知识总结。30分钟即可上手，快来试试！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-03-14",
+      "title": "本文档为 OpenClaw 完整命令手册，涵盖终端 CLI 命令和频道斜杠命令两大部分。或许会有你用得到的！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-03-14",
+      "title": "Dario Amodei 是 Anthropic 公司核心负责人，深耕 AI 大模型研发领域，对模型缩放、技术发展趋势有着极具前瞻性的判断，主导了 Claude 系列模型的技术研发与落地， Dwarkesh Patel 是资深科技访谈者，聚焦 AI 领域前沿对话，挖掘行业核心发展议题。本次访谈于 2026 年 2 月 14 日开展，围绕 AI 技术指数增长尾声、模型缩放假说、 RL 发展等核心问题展开，深入探讨 AI 技术落地与经济渗透的关键议题，分享了对 AI 行业发展趋势的独到见解与实践思考。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
