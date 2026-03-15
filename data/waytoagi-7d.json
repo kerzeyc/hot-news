@@ -1,15 +1,20 @@
 {
-  "generated_at": "2026-03-15T17:17:37.691662Z",
+  "generated_at": "2026-03-15T17:50:31.449499Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-03-15",
-  "count_today": 6,
+  "count_today": 7,
   "updates_today": [
     {
       "date": "2026-03-15",
       "title": "本文主要讲解OpenClaw内秉的多agents机制如何运作，以及如何安装并运行多agents。很多人第一次看 OpenClaw 的目录结构，都会被绕住。这篇文章就带你先把 OpenClaw 原生概念理解清楚，再搞懂agency-agents 的100多个agents是怎么接到这套体系里的。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-03-15",
+      "title": "最近一篇关于 AI 记忆系统的论文引发了不少讨论，结论是\"检索比存储更重要\"。但如果换一个角度看这个问题，一个更有价值的等式浮出水面： 召回 = 存储 + 检索 。这个等式把\"写进去什么\"和\"找出来什么\"绑在了一起，存储决定了检索的天花板。很多做 RAG 系统的团队都踩过一个坑：精心设计的摘要和事实提取，效果反而不如把原始文本块直接存进去。这篇文章跟着作者一起探究这背后的原因！",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
@@ -38,11 +43,16 @@
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 39,
+  "count_7d": 40,
   "updates_7d": [
     {
       "date": "2026-03-15",
       "title": "本文主要讲解OpenClaw内秉的多agents机制如何运作，以及如何安装并运行多agents。很多人第一次看 OpenClaw 的目录结构，都会被绕住。这篇文章就带你先把 OpenClaw 原生概念理解清楚，再搞懂agency-agents 的100多个agents是怎么接到这套体系里的。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-03-15",
+      "title": "最近一篇关于 AI 记忆系统的论文引发了不少讨论，结论是\"检索比存储更重要\"。但如果换一个角度看这个问题，一个更有价值的等式浮出水面： 召回 = 存储 + 检索 。这个等式把\"写进去什么\"和\"找出来什么\"绑在了一起，存储决定了检索的天花板。很多做 RAG 系统的团队都踩过一个坑：精心设计的摘要和事实提取，效果反而不如把原始文本块直接存进去。这篇文章跟着作者一起探究这背后的原因！",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
