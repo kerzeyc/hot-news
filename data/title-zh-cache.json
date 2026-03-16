@@ -5084,5 +5084,11 @@
   "Language Model Teams as Distrbuted Systems": "作为分布式系统的语言模型团队",
   "Is this product 'human-made'? The race to establish an AI-free logo": "这个产品是“人造的”吗？建立无人工智能徽标的竞赛",
   "Apache Iggy: thread-per-core with io_uring in Rust": "Apache Iggy：Rust 中的 io_uring 的每核线程",
-  "I built an ephemeral P2P chat with WebRTC, without servers": "我使用 WebRTC 构建了一个临时 P2P 聊天，无需服务器"
+  "I built an ephemeral P2P chat with WebRTC, without servers": "我使用 WebRTC 构建了一个临时 P2P 聊天，无需服务器",
+  "Nvidia Launches Vera CPU, Purpose-Built for Agentic AI": "Nvidia 推出 Vera CPU，专为 Agentic AI 打造",
+  "Show HN: Claude Code skills that build complete Godot games": "展示 HN：构建完整戈多游戏的克劳德代码技能",
+  "Video Encoding and Decoding with Vulkan Compute Shaders in FFmpeg": "在 FFmpeg 中使用 Vulkan 计算着色器进行视频编码和解码",
+  "Encyclopedia Britannica Sues OpenAI For Copyright, Trademark Infringement": "大英百科全书起诉 OpenAI 版权、商标侵权",
+  "Things Linux Can Do That Windows Still Can't": "Linux 可以做而 Windows 仍然做不到的事情",
+  "Schemesh – Unix shell and Lisp REPL, now with structured pipelines": "Schemesh – Unix shell 和 Lisp REPL，现在具有结构化管道"
 }
