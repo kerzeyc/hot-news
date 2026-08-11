@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-11T01:00:10.731699Z",
+  "generated_at": "2026-08-11T03:04:05.407491Z",
   "sites": [
     {
       "site_id": "techurls",
       "site_name": "TechURLs",
       "ok": true,
       "item_count": 405,
-      "duration_ms": 311,
+      "duration_ms": 497,
       "error": null
     },
     {
@@ -14,15 +14,15 @@
       "site_name": "Buzzing",
       "ok": true,
       "item_count": 744,
-      "duration_ms": 329,
+      "duration_ms": 284,
       "error": null
     },
     {
       "site_id": "iris",
       "site_name": "Info Flow",
       "ok": true,
-      "item_count": 260,
-      "duration_ms": 28326,
+      "item_count": 335,
+      "duration_ms": 15498,
       "error": null
     },
     {
@@ -30,15 +30,15 @@
       "site_name": "BestBlogs",
       "ok": true,
       "item_count": 1,
-      "duration_ms": 1592,
+      "duration_ms": 687,
       "error": null
     },
     {
       "site_id": "tophub",
       "site_name": "TopHub",
       "ok": true,
-      "item_count": 3024,
-      "duration_ms": 1383,
+      "item_count": 3025,
+      "duration_ms": 1820,
       "error": null
     },
     {
@@ -46,7 +46,7 @@
       "site_name": "Zeli",
       "ok": true,
       "item_count": 80,
-      "duration_ms": 502,
+      "duration_ms": 413,
       "error": null
     },
     {
@@ -54,7 +54,7 @@
       "site_name": "AI HubToday",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 5025,
+      "duration_ms": 5080,
       "error": "HTTPSConnectionPool(host='ai.hubtoday.app', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='ai.hubtoday.app', port=443): Failed to resolve 'ai.hubtoday.app' ([Errno -2] Name or service not known)\"))"
     },
     {
@@ -62,7 +62,7 @@
       "site_name": "AIbase",
       "ok": true,
       "item_count": 20,
-      "duration_ms": 1885,
+      "duration_ms": 1014,
       "error": null
     },
     {
@@ -70,16 +70,16 @@
       "site_name": "AI今日热榜",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 85,
+      "duration_ms": 44,
       "error": "403 Client Error: Forbidden for url: https://aihot.today/"
     },
     {
       "site_id": "newsnow",
       "site_name": "NewsNow",
-      "ok": false,
-      "item_count": 0,
-      "duration_ms": 9541,
-      "error": "HTTPSConnectionPool(host='newsnow.busiyi.world', port=443): Max retries exceeded with url: /api/s?id=36kr (Caused by ResponseError('too many 500 error responses'))"
+      "ok": true,
+      "item_count": 126,
+      "duration_ms": 1277,
+      "error": null
     },
     {
       "site_id": "opmlrss",
@@ -87,7 +87,7 @@
       "ok": true,
       "partial_failures": 0,
       "item_count": 1981,
-      "duration_ms": 2486,
+      "duration_ms": 2941,
       "error": null,
       "feed_count": 3,
       "effective_feed_count": 3,
@@ -97,16 +97,15 @@
       "replaced_feed_count": 0
     }
   ],
-  "successful_sites": 8,
+  "successful_sites": 9,
   "failed_sites": [
     "aihubtoday",
-    "aihot",
-    "newsnow"
+    "aihot"
   ],
   "zero_item_sites": [],
-  "fetched_raw_items": 6515,
-  "items_before_topic_filter": 7379,
-  "items_in_24h": 830,
+  "fetched_raw_items": 6717,
+  "items_before_topic_filter": 7381,
+  "items_in_24h": 850,
   "rss_opml": {
     "enabled": true,
     "path": "feeds/follow.opml",
@@ -126,7 +125,7 @@
         "effective_feed_url": "https://huggingface.co/blog/feed.xml",
         "ok": true,
         "item_count": 838,
-        "duration_ms": 346,
+        "duration_ms": 298,
         "error": null,
         "skipped": false,
         "skip_reason": null,
@@ -140,7 +139,7 @@
         "effective_feed_url": "https://www.infoq.cn/feed",
         "ok": true,
         "item_count": 20,
-        "duration_ms": 1470,
+        "duration_ms": 1918,
         "error": null,
         "skipped": false,
         "skip_reason": null,
@@ -154,7 +153,7 @@
         "effective_feed_url": "https://openai.com/news/rss.xml",
         "ok": true,
         "item_count": 1123,
-        "duration_ms": 670,
+        "duration_ms": 725,
         "error": null,
         "skipped": false,
         "skip_reason": null,
